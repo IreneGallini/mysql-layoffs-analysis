@@ -27,7 +27,7 @@ Key data cleaning steps performed:
 
 **Result:** A clean, structured dataset ready for analysis.
 
-## 📊 Exploratory Data Analysis (`02_eda.sql`)
+## Exploratory Data Analysis (`02_eda.sql`)
 The EDA focuses on understanding the scope and patterns of layoffs.
 
 Key analyses include:
